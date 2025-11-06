@@ -8,4 +8,4 @@
 | -------- | -------- | --------|
 | Kasereka | Kike     | 5000    |
 | Kasereka | Mbunge   | Romain  |
-| Kambale  | Kateghe  | Elie    |
+| Katembo  | Luhavo   | Josias  |
