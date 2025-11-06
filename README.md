@@ -8,4 +8,4 @@
 | -------- | -------- | -------------- |
 | Kasereka     | Kike       | 5000     |
 | Kasereka     | Mbunge     | Romain   |
-| Kambale      | vayisiriria| Grace    |  
+| Kambale      | vayisiriria| Grace    |   
