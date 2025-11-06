@@ -8,3 +8,4 @@
 | -------- | -------- | -------- |
 | Kasereka     | Kike     | 5000     |
 | Kasereka     | Mbunge    | Romain    |
+| Nzanzu     | Kavughe    | Serge    |
