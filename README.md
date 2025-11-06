@@ -13,3 +13,4 @@
 | KAHINDO      | KAVIRA    | Rosette   |
 | Muhindo    | vuhese   | bienvenu  |
 | Nzanzu     | Kavughe    | Serge    |
+| Kyakimwa    | kabuyaya   | charline    |
