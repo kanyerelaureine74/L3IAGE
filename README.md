@@ -29,3 +29,4 @@
 | corinne  | sadjabi | brown  |
 | Muhindo     | Mumbesa    | Jospin    |
 | JAKISA     | UROMBI     | Dieu merci     |
+| KANYERE   | KITULU    | laureine     |
