@@ -30,3 +30,4 @@
 | Muhindo     | Mumbesa    | Jospin    |
 | JAKISA     | UROMBI     | Dieu merci     |
 | KANYERE   | KITULU    | laureine     |
+KANYERE | KITULU | Laureine |
