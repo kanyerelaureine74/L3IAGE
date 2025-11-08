@@ -30,4 +30,13 @@
 | Muhindo     | Mumbesa    | Jospin    |
 | JAKISA     | UROMBI     | Dieu merci     |
 | KANYERE   | KITULU    | laureine     |
-KANYERE | KITULU | Laureine |
+| kavira     | MULIVONDO     | Ornella   |
+| KASOKI     | VUSARA     | Livya     |
+| KAVUGHO    | MASTAKI    | Léonce    |
+| AGONVA     | TADUMA     | Michel    |
+|IGUNDA      | WASSO      | RICHARD   |
+| SOKIANE    | MATHE      | Prisca    |
+|MASIKA | MATUMO |Clarice|
+| MASIKA | MWENGESYALI | Alice |
+| ARCHANGE    | NYONDO    | Archange   |
+| KASEREKA   | VIHAMBA    | Stiven    |
