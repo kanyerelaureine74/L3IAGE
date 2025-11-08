@@ -32,6 +32,7 @@
 | kavira     | MULIVONDO     | Ornella   |
 | KASOKI     | VUSARA     | Livya     |
 | KAVUGHO    | MASTAKI    | Léonce    |
+| AGONVA     | TADUMA     | Michel    |
 |IGUNDA      | WASSO      | RICHARD   |
 | SOKIANE    | MATHE      | Prisca    |
 |MASIKA | MATUMO |Clarice|
